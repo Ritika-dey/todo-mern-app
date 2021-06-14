@@ -1,0 +1,27 @@
+.home-text{
+    font-family: monospace;
+}
+.todo-del .fa-trash{
+     color: rgb(255, 255, 255);
+     background-color: transparent;
+     border-color: transparent
+}
+.todo-container{
+    background-color: #7395ae;
+    color:white;
+} 
+.labels{
+    display:flex; 
+    justify-content: center;
+    align-items: center;
+}
+.completed {
+    color: rgb(117, 112, 179);
+}
+.notCompleted{
+    color: rgb(231, 41, 138);
+}
+.bg-img{ 
+    width: 65vw;
+    height: 70vh;
+}
