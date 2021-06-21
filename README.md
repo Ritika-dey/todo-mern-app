@@ -1,5 +1,5 @@
 <h1>MERN Stack To-Do app with Data visualization</h1>
-<p><i>A To-do app created with MERN stack. Also To-do data visualization added with help of D3.js.</i></p>
+<p><i>This is a very simple and awesome application for organizing To-dos of users. MERN stack is used to create this application. Data visualization is also added to the application using D3.JS which makes it easy for user to track completed work. </i></p>
 <br/>
 
 <h2>Tech Stack : </h2>
